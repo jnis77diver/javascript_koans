@@ -106,3 +106,5 @@ describe("About Functions", function() {
     expect(multiply.toString()).toBe('function (a, b) {//An internal commentreturn a * b;}');
   });    
 });
+
+//messing around
